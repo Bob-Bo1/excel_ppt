@@ -1,0 +1,8 @@
+# 默认忽略所有文件
+*
+
+# 只跟踪以下文件
+!.gitignore
+!config_example.py
+!docs/
+!docs/prd.md
